@@ -1,0 +1,10 @@
+{
+  "name": "StudyHub \u2014 College Manager",
+  "short_name": "StudyHub",
+  "description": "Your personal college planner and study dashboard.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0f17",
+  "theme_color": "#10131c",
+  "icons": []
+}
